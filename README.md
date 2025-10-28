@@ -14,11 +14,7 @@ This project generates synthetic handwriting images useful for research in OCR r
 * [Installation](#installation)
 * [Quick Start](#quick-start)
 * [Arguments / CLI Options](#arguments--cli-options)
-* [Examples](#examples)
-* [Advanced Usage & Development](#advanced-usage--development)
 * [To Do](#to-do)
-* [License & Reference](#license--reference)
-
 ---
 
 ## Key Ideas
